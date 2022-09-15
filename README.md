@@ -1,2 +1,2 @@
 # Challenge-Dados
-Repositório para os desafios, para análise de dados
+Repositório para os arquivos das formações de datascience.
